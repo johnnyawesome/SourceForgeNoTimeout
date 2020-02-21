@@ -7,8 +7,8 @@
 // @match        https://sourceforge.net/projects/*
 // @icon         https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull32.ico
 // @icon64	 https://raw.githubusercontent.com/johnnyawesome/MyLogo/master/MySkull64.ico
-// @updateURL    https://github.com/johnnyawesome/SourceForgeNoTimeout/tree/master
-// @downloadURL  https://github.com/johnnyawesome/SourceForgeNoTimeout/tree/master
+// @updateURL    https://github.com/johnnyawesome/SourceForgeNoTimeout/raw/master/SourceForgeNoTimeout/SourceForgeNoTimeout.user.js
+// @downloadURL  https://github.com/johnnyawesome/SourceForgeNoTimeout/raw/master/SourceForgeNoTimeout/SourceForgeNoTimeout.user.js
 // ==/UserScript==
 
 'use strict';
