@@ -13,6 +13,10 @@ This userscript removes the timeout on SourceForge downloads:
 - The script immediately starts the download
 - It then takes you back to Google, because after 5 seconds the "regular" download would open (a second time)
 
+This script is a one-click solution, needing only one click (on the google search result) to the final download. 
+
+![SourceForge No Timeout On Downloads](https://github.com/johnnyawesome/SourceForgeNoTimeout/blob/master/SourceForgeNoTimeout/SourceForgeNoTimeout.gif)
+
 ## How to run the script
 
 There are several possibilities to run it:
