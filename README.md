@@ -1,7 +1,7 @@
 # 🚫⌛ SourceForgeNoTimeout ⌛🚫
 No timeout on SourceForge downloads!
 
-This userscript removes the timeout on SourceForge downloads:
+This UserScript removes the timeout on SourceForge downloads:
 
 ![SourceForge No Timeout On Downloads](https://github.com/johnnyawesome/SourceForgeNoTimeout/blob/master/SourceForgeNoTimeout/SourceForgeNoTimeout.gif)
 
